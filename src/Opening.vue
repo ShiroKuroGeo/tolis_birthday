@@ -246,7 +246,7 @@ body {
     font-family: 'Nunito', sans-serif;
     background: linear-gradient(135deg, #5B1BA8 0%, #9B30D0 55%, #C56CF0 100%);
     min-height: 100vh;
-    overflow: hidden;
+    /* overflow: hidden; */
 }
 
 /* ── SPLASH SCREEN ── */

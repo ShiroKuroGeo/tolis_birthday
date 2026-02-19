@@ -325,7 +325,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 20px;
-    overflow: hidden;
+    overflow: auto;
 }
 
 /* ---- Scene ---- */
